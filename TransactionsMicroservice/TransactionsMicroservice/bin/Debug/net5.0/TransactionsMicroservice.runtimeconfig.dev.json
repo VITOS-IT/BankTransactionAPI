@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\vitos\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\vitos\\.nuget\\packages"
+    ]
+  }
+}

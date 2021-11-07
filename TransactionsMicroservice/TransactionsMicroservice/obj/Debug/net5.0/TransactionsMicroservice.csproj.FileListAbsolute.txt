@@ -1,0 +1,426 @@
+D:\Participants\Bank\TransactionsMicroservice\TransactionsMicroservice\obj\Debug\net5.0\TransactionsMicroservice.csproj.AssemblyReference.cache
+D:\Participants\Bank\TransactionsMicroservice\TransactionsMicroservice\obj\Debug\net5.0\TransactionsMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+D:\Participants\Bank\TransactionsMicroservice\TransactionsMicroservice\obj\Debug\net5.0\TransactionsMicroservice.AssemblyInfoInputs.cache
+D:\Participants\Bank\TransactionsMicroservice\TransactionsMicroservice\obj\Debug\net5.0\TransactionsMicroservice.AssemblyInfo.cs
+D:\Participants\Bank\TransactionsMicroservice\TransactionsMicroservice\obj\Debug\net5.0\TransactionsMicroservice.csproj.CoreCompileInputs.cache
+D:\Participants\Bank\TransactionsMicroservice\TransactionsMicroservice\obj\Debug\net5.0\TransactionsMicroservice.MvcApplicationPartsAssemblyInfo.cs
+D:\Participants\Bank\TransactionsMicroservice\TransactionsMicroservice\obj\Debug\net5.0\TransactionsMicroservice.MvcApplicationPartsAssemblyInfo.cache
+D:\Participants\Bank\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\appsettings.Development.json
+D:\Participants\Bank\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\appsettings.json
+D:\Participants\Bank\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\TransactionsMicroservice.exe
+D:\Participants\Bank\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\TransactionsMicroservice.deps.json
+D:\Participants\Bank\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\TransactionsMicroservice.runtimeconfig.json
+D:\Participants\Bank\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\TransactionsMicroservice.runtimeconfig.dev.json
+D:\Participants\Bank\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\TransactionsMicroservice.dll
+D:\Participants\Bank\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\ref\TransactionsMicroservice.dll
+D:\Participants\Bank\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\TransactionsMicroservice.pdb
+D:\Participants\Bank\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Humanizer.dll
+D:\Participants\Bank\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Participants\Bank\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Participants\Bank\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Participants\Bank\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Participants\Bank\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Participants\Bank\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Participants\Bank\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Participants\Bank\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Participants\Bank\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Participants\Bank\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Participants\Bank\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Participants\Bank\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Participants\Bank\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Participants\Bank\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Participants\Bank\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Participants\Bank\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Participants\Bank\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Participants\Bank\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Participants\Bank\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Participants\Bank\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Participants\Bank\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Participants\Bank\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Participants\Bank\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Participants\Bank\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Participants\Bank\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Participants\Bank\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Participants\Bank\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Participants\Bank\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Participants\Bank\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Participants\Bank\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Participants\Bank\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Participants\Bank\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Participants\Bank\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Participants\Bank\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Participants\Bank\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Participants\Bank\TransactionsMicroservice\TransactionsMicroservice\obj\Debug\net5.0\staticwebassets\TransactionsMicroservice.StaticWebAssets.Manifest.cache
+D:\Participants\Bank\TransactionsMicroservice\TransactionsMicroservice\obj\Debug\net5.0\staticwebassets\TransactionsMicroservice.StaticWebAssets.xml
+D:\Participants\Bank\TransactionsMicroservice\TransactionsMicroservice\obj\Debug\net5.0\scopedcss\bundle\TransactionsMicroservice.styles.css
+D:\Participants\Bank\TransactionsMicroservice\TransactionsMicroservice\obj\Debug\net5.0\TransactionsMicroservice.RazorTargetAssemblyInfo.cache
+D:\Participants\Bank\TransactionsMicroservice\TransactionsMicroservice\obj\Debug\net5.0\TransactionsMicroservice.csproj.CopyComplete
+D:\Participants\Bank\TransactionsMicroservice\TransactionsMicroservice\obj\Debug\net5.0\TransactionsMicroservice.dll
+D:\Participants\Bank\TransactionsMicroservice\TransactionsMicroservice\obj\Debug\net5.0\ref\TransactionsMicroservice.dll
+D:\Participants\Bank\TransactionsMicroservice\TransactionsMicroservice\obj\Debug\net5.0\TransactionsMicroservice.pdb
+D:\Participants\Bank\TransactionsMicroservice\TransactionsMicroservice\obj\Debug\net5.0\TransactionsMicroservice.genruntimeconfig.cache
+C:\Users\Administrator\Downloads\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Administrator\Downloads\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\appsettings.json
+C:\Users\Administrator\Downloads\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\TransactionsMicroservice.exe
+C:\Users\Administrator\Downloads\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\TransactionsMicroservice.deps.json
+C:\Users\Administrator\Downloads\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\TransactionsMicroservice.runtimeconfig.json
+C:\Users\Administrator\Downloads\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\TransactionsMicroservice.runtimeconfig.dev.json
+C:\Users\Administrator\Downloads\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\TransactionsMicroservice.dll
+C:\Users\Administrator\Downloads\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\ref\TransactionsMicroservice.dll
+C:\Users\Administrator\Downloads\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\TransactionsMicroservice.pdb
+C:\Users\Administrator\Downloads\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Administrator\Downloads\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Downloads\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Administrator\Downloads\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Administrator\Downloads\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Administrator\Downloads\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Administrator\Downloads\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Administrator\Downloads\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Administrator\Downloads\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Administrator\Downloads\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Administrator\Downloads\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Administrator\Downloads\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Administrator\Downloads\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Administrator\Downloads\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Administrator\Downloads\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Administrator\Downloads\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Administrator\Downloads\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Administrator\Downloads\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Administrator\Downloads\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Administrator\Downloads\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Administrator\Downloads\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Administrator\Downloads\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Administrator\Downloads\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Administrator\Downloads\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator\Downloads\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Downloads\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Downloads\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Downloads\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Administrator\Downloads\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Downloads\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Administrator\Downloads\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Downloads\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Administrator\Downloads\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Downloads\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Administrator\Downloads\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Administrator\Downloads\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator\Downloads\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\obj\Debug\net5.0\TransactionsMicroservice.csproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\obj\Debug\net5.0\TransactionsMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Downloads\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\obj\Debug\net5.0\TransactionsMicroservice.AssemblyInfoInputs.cache
+C:\Users\Administrator\Downloads\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\obj\Debug\net5.0\TransactionsMicroservice.AssemblyInfo.cs
+C:\Users\Administrator\Downloads\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\obj\Debug\net5.0\TransactionsMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\obj\Debug\net5.0\TransactionsMicroservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Administrator\Downloads\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\obj\Debug\net5.0\TransactionsMicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator\Downloads\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\obj\Debug\net5.0\staticwebassets\TransactionsMicroservice.StaticWebAssets.Manifest.cache
+C:\Users\Administrator\Downloads\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\obj\Debug\net5.0\staticwebassets\TransactionsMicroservice.StaticWebAssets.xml
+C:\Users\Administrator\Downloads\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\obj\Debug\net5.0\scopedcss\bundle\TransactionsMicroservice.styles.css
+C:\Users\Administrator\Downloads\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\obj\Debug\net5.0\TransactionsMicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\Administrator\Downloads\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\obj\Debug\net5.0\TransactionsMicroservice.csproj.CopyComplete
+C:\Users\Administrator\Downloads\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\obj\Debug\net5.0\TransactionsMicroservice.dll
+C:\Users\Administrator\Downloads\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\obj\Debug\net5.0\ref\TransactionsMicroservice.dll
+C:\Users\Administrator\Downloads\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\obj\Debug\net5.0\TransactionsMicroservice.pdb
+C:\Users\Administrator\Downloads\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\obj\Debug\net5.0\TransactionsMicroservice.genruntimeconfig.cache
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\appsettings.Development.json
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\appsettings.json
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\TransactionsMicroservice.exe
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\TransactionsMicroservice.deps.json
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\TransactionsMicroservice.runtimeconfig.json
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\TransactionsMicroservice.runtimeconfig.dev.json
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\TransactionsMicroservice.dll
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\ref\TransactionsMicroservice.dll
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\TransactionsMicroservice.pdb
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Humanizer.dll
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\obj\Debug\net5.0\TransactionsMicroservice.csproj.AssemblyReference.cache
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\obj\Debug\net5.0\TransactionsMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\obj\Debug\net5.0\TransactionsMicroservice.AssemblyInfoInputs.cache
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\obj\Debug\net5.0\TransactionsMicroservice.AssemblyInfo.cs
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\obj\Debug\net5.0\TransactionsMicroservice.csproj.CoreCompileInputs.cache
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\obj\Debug\net5.0\TransactionsMicroservice.MvcApplicationPartsAssemblyInfo.cs
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\obj\Debug\net5.0\TransactionsMicroservice.MvcApplicationPartsAssemblyInfo.cache
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\obj\Debug\net5.0\staticwebassets\TransactionsMicroservice.StaticWebAssets.Manifest.cache
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\obj\Debug\net5.0\staticwebassets\TransactionsMicroservice.StaticWebAssets.xml
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\obj\Debug\net5.0\scopedcss\bundle\TransactionsMicroservice.styles.css
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\obj\Debug\net5.0\TransactionsMicroservice.RazorTargetAssemblyInfo.cache
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\obj\Debug\net5.0\TransactionsMicroservice.csproj.CopyComplete
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\obj\Debug\net5.0\TransactionsMicroservice.dll
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\obj\Debug\net5.0\ref\TransactionsMicroservice.dll
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\obj\Debug\net5.0\TransactionsMicroservice.pdb
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\obj\Debug\net5.0\TransactionsMicroservice.genruntimeconfig.cache
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\appsettings.Development.json
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\appsettings.json
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\TransactionsMicroservice.exe
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\TransactionsMicroservice.deps.json
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\TransactionsMicroservice.runtimeconfig.json
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\TransactionsMicroservice.runtimeconfig.dev.json
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\TransactionsMicroservice.dll
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\ref\TransactionsMicroservice.dll
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\TransactionsMicroservice.pdb
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Humanizer.dll
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\obj\Debug\net5.0\TransactionsMicroservice.csproj.AssemblyReference.cache
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\obj\Debug\net5.0\TransactionsMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\obj\Debug\net5.0\TransactionsMicroservice.AssemblyInfoInputs.cache
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\obj\Debug\net5.0\TransactionsMicroservice.AssemblyInfo.cs
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\obj\Debug\net5.0\TransactionsMicroservice.csproj.CoreCompileInputs.cache
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\obj\Debug\net5.0\TransactionsMicroservice.MvcApplicationPartsAssemblyInfo.cs
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\obj\Debug\net5.0\TransactionsMicroservice.MvcApplicationPartsAssemblyInfo.cache
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\obj\Debug\net5.0\staticwebassets\TransactionsMicroservice.StaticWebAssets.Manifest.cache
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\obj\Debug\net5.0\staticwebassets\TransactionsMicroservice.StaticWebAssets.xml
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\obj\Debug\net5.0\scopedcss\bundle\TransactionsMicroservice.styles.css
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\obj\Debug\net5.0\TransactionsMicroservice.RazorTargetAssemblyInfo.cache
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\obj\Debug\net5.0\TransactionsMicroservice.csproj.CopyComplete
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\obj\Debug\net5.0\TransactionsMicroservice.dll
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\obj\Debug\net5.0\ref\TransactionsMicroservice.dll
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\obj\Debug\net5.0\TransactionsMicroservice.pdb
+D:\Participants\homeWork\BankApp\TransactionsMicroservice\TransactionsMicroservice\obj\Debug\net5.0\TransactionsMicroservice.genruntimeconfig.cache
+C:\Users\mihai\Desktop\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\mihai\Desktop\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\appsettings.json
+C:\Users\mihai\Desktop\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\TransactionsMicroservice.exe
+C:\Users\mihai\Desktop\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\TransactionsMicroservice.deps.json
+C:\Users\mihai\Desktop\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\TransactionsMicroservice.runtimeconfig.json
+C:\Users\mihai\Desktop\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\TransactionsMicroservice.runtimeconfig.dev.json
+C:\Users\mihai\Desktop\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\TransactionsMicroservice.dll
+C:\Users\mihai\Desktop\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\ref\TransactionsMicroservice.dll
+C:\Users\mihai\Desktop\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\TransactionsMicroservice.pdb
+C:\Users\mihai\Desktop\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Humanizer.dll
+C:\Users\mihai\Desktop\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\mihai\Desktop\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\mihai\Desktop\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mihai\Desktop\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mihai\Desktop\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mihai\Desktop\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\mihai\Desktop\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mihai\Desktop\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\mihai\Desktop\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mihai\Desktop\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\mihai\Desktop\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mihai\Desktop\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mihai\Desktop\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mihai\Desktop\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\mihai\Desktop\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\mihai\Desktop\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mihai\Desktop\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mihai\Desktop\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mihai\Desktop\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\mihai\Desktop\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mihai\Desktop\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mihai\Desktop\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\mihai\Desktop\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mihai\Desktop\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mihai\Desktop\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mihai\Desktop\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mihai\Desktop\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\mihai\Desktop\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mihai\Desktop\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\mihai\Desktop\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mihai\Desktop\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\mihai\Desktop\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mihai\Desktop\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\mihai\Desktop\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\mihai\Desktop\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mihai\Desktop\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\obj\Debug\net5.0\TransactionsMicroservice.csproj.AssemblyReference.cache
+C:\Users\mihai\Desktop\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\obj\Debug\net5.0\TransactionsMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mihai\Desktop\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\obj\Debug\net5.0\TransactionsMicroservice.AssemblyInfoInputs.cache
+C:\Users\mihai\Desktop\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\obj\Debug\net5.0\TransactionsMicroservice.AssemblyInfo.cs
+C:\Users\mihai\Desktop\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\obj\Debug\net5.0\TransactionsMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\mihai\Desktop\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\obj\Debug\net5.0\TransactionsMicroservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mihai\Desktop\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\obj\Debug\net5.0\TransactionsMicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mihai\Desktop\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\obj\Debug\net5.0\staticwebassets\TransactionsMicroservice.StaticWebAssets.Manifest.cache
+C:\Users\mihai\Desktop\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\obj\Debug\net5.0\staticwebassets\TransactionsMicroservice.StaticWebAssets.xml
+C:\Users\mihai\Desktop\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\obj\Debug\net5.0\scopedcss\bundle\TransactionsMicroservice.styles.css
+C:\Users\mihai\Desktop\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\obj\Debug\net5.0\TransactionsMicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\mihai\Desktop\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\obj\Debug\net5.0\TransactionsMicroservice.dll
+C:\Users\mihai\Desktop\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\obj\Debug\net5.0\ref\TransactionsMicroservice.dll
+C:\Users\mihai\Desktop\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\obj\Debug\net5.0\TransactionsMicroservice.pdb
+C:\Users\mihai\Desktop\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\obj\Debug\net5.0\TransactionsMicroservice.genruntimeconfig.cache
+C:\Users\mihai\source\repos\CourseProject\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\mihai\source\repos\CourseProject\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\appsettings.json
+C:\Users\mihai\source\repos\CourseProject\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\TransactionsMicroservice.exe
+C:\Users\mihai\source\repos\CourseProject\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\TransactionsMicroservice.deps.json
+C:\Users\mihai\source\repos\CourseProject\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\TransactionsMicroservice.runtimeconfig.json
+C:\Users\mihai\source\repos\CourseProject\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\TransactionsMicroservice.runtimeconfig.dev.json
+C:\Users\mihai\source\repos\CourseProject\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\TransactionsMicroservice.dll
+C:\Users\mihai\source\repos\CourseProject\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\ref\TransactionsMicroservice.dll
+C:\Users\mihai\source\repos\CourseProject\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\TransactionsMicroservice.pdb
+C:\Users\mihai\source\repos\CourseProject\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Humanizer.dll
+C:\Users\mihai\source\repos\CourseProject\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\mihai\source\repos\CourseProject\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\mihai\source\repos\CourseProject\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mihai\source\repos\CourseProject\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mihai\source\repos\CourseProject\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mihai\source\repos\CourseProject\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\mihai\source\repos\CourseProject\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mihai\source\repos\CourseProject\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\mihai\source\repos\CourseProject\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mihai\source\repos\CourseProject\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\mihai\source\repos\CourseProject\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mihai\source\repos\CourseProject\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mihai\source\repos\CourseProject\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mihai\source\repos\CourseProject\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\mihai\source\repos\CourseProject\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\mihai\source\repos\CourseProject\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mihai\source\repos\CourseProject\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mihai\source\repos\CourseProject\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mihai\source\repos\CourseProject\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\mihai\source\repos\CourseProject\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mihai\source\repos\CourseProject\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mihai\source\repos\CourseProject\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\mihai\source\repos\CourseProject\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mihai\source\repos\CourseProject\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mihai\source\repos\CourseProject\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mihai\source\repos\CourseProject\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mihai\source\repos\CourseProject\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\mihai\source\repos\CourseProject\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mihai\source\repos\CourseProject\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\mihai\source\repos\CourseProject\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mihai\source\repos\CourseProject\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\mihai\source\repos\CourseProject\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mihai\source\repos\CourseProject\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\mihai\source\repos\CourseProject\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\mihai\source\repos\CourseProject\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mihai\source\repos\CourseProject\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\obj\Debug\net5.0\TransactionsMicroservice.csproj.AssemblyReference.cache
+C:\Users\mihai\source\repos\CourseProject\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\obj\Debug\net5.0\TransactionsMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mihai\source\repos\CourseProject\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\obj\Debug\net5.0\TransactionsMicroservice.AssemblyInfoInputs.cache
+C:\Users\mihai\source\repos\CourseProject\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\obj\Debug\net5.0\TransactionsMicroservice.AssemblyInfo.cs
+C:\Users\mihai\source\repos\CourseProject\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\obj\Debug\net5.0\TransactionsMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\mihai\source\repos\CourseProject\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\obj\Debug\net5.0\TransactionsMicroservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mihai\source\repos\CourseProject\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\obj\Debug\net5.0\TransactionsMicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mihai\source\repos\CourseProject\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\obj\Debug\net5.0\staticwebassets\TransactionsMicroservice.StaticWebAssets.Manifest.cache
+C:\Users\mihai\source\repos\CourseProject\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\obj\Debug\net5.0\staticwebassets\TransactionsMicroservice.StaticWebAssets.xml
+C:\Users\mihai\source\repos\CourseProject\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\obj\Debug\net5.0\scopedcss\bundle\TransactionsMicroservice.styles.css
+C:\Users\mihai\source\repos\CourseProject\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\obj\Debug\net5.0\TransactionsMicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\mihai\source\repos\CourseProject\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\obj\Debug\net5.0\TransactionsMicroservice.dll
+C:\Users\mihai\source\repos\CourseProject\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\obj\Debug\net5.0\ref\TransactionsMicroservice.dll
+C:\Users\mihai\source\repos\CourseProject\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\obj\Debug\net5.0\TransactionsMicroservice.pdb
+C:\Users\mihai\source\repos\CourseProject\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\obj\Debug\net5.0\TransactionsMicroservice.genruntimeconfig.cache
+D:\Participants\Bank\CourseProject (1)\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\appsettings.Development.json
+D:\Participants\Bank\CourseProject (1)\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\appsettings.json
+D:\Participants\Bank\CourseProject (1)\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\TransactionsMicroservice.exe
+D:\Participants\Bank\CourseProject (1)\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\TransactionsMicroservice.deps.json
+D:\Participants\Bank\CourseProject (1)\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\TransactionsMicroservice.runtimeconfig.json
+D:\Participants\Bank\CourseProject (1)\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\TransactionsMicroservice.runtimeconfig.dev.json
+D:\Participants\Bank\CourseProject (1)\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\TransactionsMicroservice.dll
+D:\Participants\Bank\CourseProject (1)\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\ref\TransactionsMicroservice.dll
+D:\Participants\Bank\CourseProject (1)\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\TransactionsMicroservice.pdb
+D:\Participants\Bank\CourseProject (1)\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Humanizer.dll
+D:\Participants\Bank\CourseProject (1)\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Participants\Bank\CourseProject (1)\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Participants\Bank\CourseProject (1)\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Participants\Bank\CourseProject (1)\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Participants\Bank\CourseProject (1)\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Participants\Bank\CourseProject (1)\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Participants\Bank\CourseProject (1)\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Participants\Bank\CourseProject (1)\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Participants\Bank\CourseProject (1)\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Participants\Bank\CourseProject (1)\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Participants\Bank\CourseProject (1)\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Participants\Bank\CourseProject (1)\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Participants\Bank\CourseProject (1)\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Participants\Bank\CourseProject (1)\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Participants\Bank\CourseProject (1)\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Participants\Bank\CourseProject (1)\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Participants\Bank\CourseProject (1)\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Participants\Bank\CourseProject (1)\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Participants\Bank\CourseProject (1)\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Participants\Bank\CourseProject (1)\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Participants\Bank\CourseProject (1)\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Participants\Bank\CourseProject (1)\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Participants\Bank\CourseProject (1)\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Participants\Bank\CourseProject (1)\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Participants\Bank\CourseProject (1)\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Participants\Bank\CourseProject (1)\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Participants\Bank\CourseProject (1)\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Participants\Bank\CourseProject (1)\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Participants\Bank\CourseProject (1)\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Participants\Bank\CourseProject (1)\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Participants\Bank\CourseProject (1)\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Participants\Bank\CourseProject (1)\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Participants\Bank\CourseProject (1)\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Participants\Bank\CourseProject (1)\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Participants\Bank\CourseProject (1)\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Participants\Bank\CourseProject (1)\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\obj\Debug\net5.0\TransactionsMicroservice.csproj.AssemblyReference.cache
+D:\Participants\Bank\CourseProject (1)\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\obj\Debug\net5.0\TransactionsMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+D:\Participants\Bank\CourseProject (1)\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\obj\Debug\net5.0\TransactionsMicroservice.AssemblyInfoInputs.cache
+D:\Participants\Bank\CourseProject (1)\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\obj\Debug\net5.0\TransactionsMicroservice.AssemblyInfo.cs
+D:\Participants\Bank\CourseProject (1)\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\obj\Debug\net5.0\TransactionsMicroservice.csproj.CoreCompileInputs.cache
+D:\Participants\Bank\CourseProject (1)\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\obj\Debug\net5.0\TransactionsMicroservice.MvcApplicationPartsAssemblyInfo.cs
+D:\Participants\Bank\CourseProject (1)\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\obj\Debug\net5.0\TransactionsMicroservice.MvcApplicationPartsAssemblyInfo.cache
+D:\Participants\Bank\CourseProject (1)\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\obj\Debug\net5.0\staticwebassets\TransactionsMicroservice.StaticWebAssets.Manifest.cache
+D:\Participants\Bank\CourseProject (1)\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\obj\Debug\net5.0\staticwebassets\TransactionsMicroservice.StaticWebAssets.xml
+D:\Participants\Bank\CourseProject (1)\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\obj\Debug\net5.0\scopedcss\bundle\TransactionsMicroservice.styles.css
+D:\Participants\Bank\CourseProject (1)\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\obj\Debug\net5.0\TransactionsMicroservice.RazorTargetAssemblyInfo.cache
+D:\Participants\Bank\CourseProject (1)\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\obj\Debug\net5.0\TransactionsMicroservice.csproj.CopyComplete
+D:\Participants\Bank\CourseProject (1)\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\obj\Debug\net5.0\TransactionsMicroservice.dll
+D:\Participants\Bank\CourseProject (1)\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\obj\Debug\net5.0\ref\TransactionsMicroservice.dll
+D:\Participants\Bank\CourseProject (1)\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\obj\Debug\net5.0\TransactionsMicroservice.pdb
+D:\Participants\Bank\CourseProject (1)\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\obj\Debug\net5.0\TransactionsMicroservice.genruntimeconfig.cache
+D:\Participants\Bank\CourseProject (1)\TransactionsMicroservice\TransactionsMicroservice\TransactionsMicroservice\bin\Debug\net5.0\TransactionAPI.yaml

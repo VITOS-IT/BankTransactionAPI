@@ -1,0 +1,33 @@
+﻿apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: transactionsmicroservice
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: TransactionsMicroservice
+  template:
+    metadata:
+      labels:
+        app: TransactionsMicroservice
+    spec:
+      containers:
+      - name: aksg3cr
+        image: aksg3cr.azurecr.io/aksg3cr:latest
+        ports:
+        - containerPort: 8080
+      imagePullSecrets:
+      - name: dsconfigsn
+
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: transactionsmicroservice
+spec:
+  type: LoadBalancer
+  ports:
+  - port: 80
+  selector:
+    app: TransactionsMicroservice
